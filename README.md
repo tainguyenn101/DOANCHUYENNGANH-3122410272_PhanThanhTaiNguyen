@@ -1,6 +1,6 @@
 # Ứng Dụng Quản Lý Lịch Trình Cá Nhân
 
-Ứng dụng **Quản Lý Lịch Trình Cá Nhân** viết bằng **Python 3**, sử dụng **PyQt6** cho giao diện người dùng, **SQLite** để lưu trữ dữ liệu và **NLP** để phân tích câu tiếng Việt mô tả sự kiện thành thông tin chi tiết.
+Ứng dụng **Quản Lý Lịch Trình Cá Nhân** viết bằng **Python**, sử dụng **PyQt6** cho giao diện người dùng, **SQLite** để lưu trữ dữ liệu và **NLP** để phân tích câu tiếng Việt mô tả sự kiện thành thông tin chi tiết.
 
 ---
 
